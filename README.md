@@ -1,17 +1,42 @@
 # 👋 Welcome to My GitHub
 
-Hi, I’m **Sasank Nukala** — a backend and AI engineer passionate about **systematic design, transparent automation, and reproducible intelligence**.  
-My work focuses on creating **modular AI pipelines**, **scalable backends**, and **agent-based automation systems** that emphasize **control, clarity, and reliability** over hidden abstractions.
+Hi, I’m **Sasank Nukala** — a systems-oriented engineer building **transparent, reproducible, and automation-ready AI infrastructures**.  
+I specialize in **backend architecture**, **computer vision systems**, and **autonomous agent workflows** that unify data, models, and control logic into cohesive, production-grade pipelines.
+
+My engineering mindset revolves around three principles:  
+**clarity**, **control**, and **composability** — ensuring every process is explainable, traceable, and extensible from dataset to deployment.
 
 ---
 
-## ⚙️ Core Competencies
+## ⚙️ Technical Expertise
 
-- **Backend Development** — Django REST Framework, modular API design, scalable service orchestration, secure authentication  
-- **Computer Vision Engineering** — OpenCV, motion tracking, Kalman filtering, dataset annotation, geometric transformations  
-- **Artificial Intelligence** — TensorFlow, Hugging Face, prompt engineering, model fine-tuning, interpretability-driven workflows  
-- **Data Analytics & Systems** — SQL-based pipelines, structured data evaluation, performance visualization, ETL design  
-- **Engineering Practices** — Git-based CI/CD, CLI tooling, reproducible experiments, containerized deployment, RBAC integration  
+### 🧩 **Backend & Systems Engineering**
+- Django REST Framework, FastAPI — modular API design and scalable endpoint orchestration  
+- Task orchestration with Celery + Redis for background processing  
+- Secure authentication and **role-based access control (RBAC)** for multi-level systems  
+- CI/CD-driven code integration and version-controlled deployment  
+
+### 🎯 **Computer Vision & Video Intelligence**
+- Motion analysis and event detection using **OpenCV**, **Kalman filters**, and **trajectory estimation**  
+- Court line detection, player localization, and bounce-point classification in tennis analytics  
+- Dataset creation and annotation pipelines (COCO, Supervisely)  
+- Model integration from YOLOv5/v8, RTMO, and TrackNet for unified ball and player detection  
+
+### 🤖 **AI & Deep Learning**
+- End-to-end model integration with **TensorFlow**, **PyTorch**, and **Hugging Face Transformers**  
+- Feature engineering and pose classification with KNN, CNN, and transformer-based architectures  
+- Custom fine-tuning workflows for task-specific models (pose detection, ball tracking, and bounce prediction)  
+- Inference optimization for reproducibility and latency reduction  
+
+### 📊 **Data Engineering & Analytics**
+- SQL and Pandas-based analytical pipelines  
+- Data wrangling, validation, and visualization for structured evaluation  
+- Building evaluation scripts for dataset integrity and model benchmark consistency  
+
+### 🧠 **System Design & Automation**
+- Modular service-based backend design for ML model deployment  
+- CLI-driven reproducible AI workflows (no hidden abstractions)  
+- Containerization and version control of models, datasets, and pipeline components  
 
 ---
 
@@ -24,38 +49,42 @@ My work focuses on creating **modular AI pipelines**, **scalable backends**, and
 
 ---
 
-## 🧩 Selected Projects
+## 🚀 Highlighted Projects
 
 ### 🎾 **ServeSight – AI-Powered Tennis Match Analysis**
-A modular computer vision pipeline for **automated match analytics** and **player performance evaluation**.  
-- Implemented player pose recognition and ball trajectory tracking using OpenCV and TensorFlow.  
-- Designed a **dataset-agnostic CLI workflow** for reproducible detection, bounce classification, and event logging.  
-- Integrated **Kalman filtering** for trajectory estimation and noise reduction across multi-frame predictions.
+An AI-driven computer vision system for **automated match analytics**, designed for precision, scalability, and interpretability.  
+- Developed a modular pipeline integrating **YOLOv8, TrackNet**, and **Kalman filtering** for ball trajectory estimation and bounce classification.  
+- Designed **pose recognition models** for classifying tennis actions (serve, forehand, backhand, ready position).  
+- Built a **CLI-controlled workflow** for reproducible dataset processing and configuration-based automation.  
+- Engineered dataset integration for court keypoints, player tracking, and temporal event linking.
 
 ---
 
 ### 💼 **Payroll Service Management System**
-A **production-grade backend** solution for enterprise payroll and HR data management.  
-- Built on Django REST Framework with **modular endpoint architecture** and **role-based access control (RBAC)**.  
-- Optimized query performance and introduced asynchronous task handling for large payroll datasets.  
-- Implemented a clean, maintainable schema for extensible tax and attendance integrations.
+A production-grade **Django REST backend** to automate payroll computation and reporting.  
+- Implemented **modular API layers** with robust database abstractions and access management.  
+- Integrated **asynchronous background tasks** using Celery and Redis for large-scale computation.  
+- Designed **audit-safe logging** and validation layers for reliable financial data flow.
 
 ---
 
-## 🧠 Research & Engineering Interests
+## 🧩 Ongoing Focus Areas
 
-- **Vision-centric automation** and interpretable AI  
-- **Agentic backend systems** with modular control flow  
-- **Data reproducibility** and transparent experimentation  
-- **System design** principles for AI integration pipelines  
+- Building **autonomous agent-based AI pipelines** with explainable control flow  
+- Researching **multi-model synchronization** for joint inference in vision and NLP tasks  
+- Expanding **dataset reproducibility frameworks** for structured experimentation  
+- Developing **CLI-driven orchestration** systems for AI model execution and benchmarking  
 
 ---
 
 ## 🎧 Beyond Code
 
-When not building automation pipelines, I explore music for focus, read AI system design papers, and refine workflows for dataset engineering and benchmarking.
+Outside of engineering, I enjoy:  
+- Curating domain-specific datasets for real-world automation use cases  
+- Exploring research around interpretable AI, motion analysis, and control theory  
+- Listening to focus music while designing clean and reproducible pipelines  
 
 ---
 
-💡 _I believe in clarity-driven automation — where every layer, from model logic to backend APIs, remains auditable, deterministic, and reproducible._  
-**Let’s connect to collaborate on transparent, scalable, and intelligent systems.**
+💡 _Engineering is not just about automation — it’s about **transparency, reproducibility, and control** at every layer of the system._  
+**I’m always open to collaborations that align with building interpretable, automation-ready AI systems.**
