@@ -1,63 +1,39 @@
-# 👋 Welcome to My GitHub
+# 👋 Hi, I'm Sasank Nukala
 
-I’m **Sasank Nukala** — a backend and AI systems engineer focused on **modular architectures**, **computer vision automation**, and **reproducible intelligence workflows**.  
-I design systems where every layer — from data to model inference — remains transparent, auditable, and precisely controllable.
-
-My goal is to engineer AI pipelines that are **explainable by design**, combining backend precision with data-driven automation for robust and interpretable systems.
+🎓 **B.Tech in Computer Science (Minor in Artificial Intelligence)** — Lovely Professional University  
+💡 Passionate about building intelligent backend systems, computer vision models, and applied machine learning solutions.
 
 ---
 
-## ⚙️ Core Expertise
-
-- **Backend Systems:** Django REST Framework, FastAPI, Celery + Redis, RBAC, CI/CD  
-- **Computer Vision:** OpenCV, Kalman filtering, YOLO/RTMO/TrackNet integration  
-- **AI & Deep Learning:** TensorFlow, PyTorch, Hugging Face, model fine-tuning  
-- **Data Analytics:** SQL, Pandas, structured evaluation, reproducible benchmarking  
+## 🧠 About Me
+I’m an AI developer focused on applying deep learning and backend engineering to solve real-world problems — from **sports analytics** to **gesture recognition**. My work combines research-driven modeling with production-ready implementation.
 
 ---
 
-## 🧩 Representative Projects
+## 🚀 Featured Projects
 
-### 🎾 **ServeSight – AI-Powered Tennis Match Analysis**
-A modular computer vision pipeline for **automated match analytics** and **player performance evaluation**.  
-- Integrated YOLO and Kalman filtering for precise ball trajectory tracking and bounce detection.  
-- Developed a **CLI-controlled workflow** for reproducible dataset processing and configuration-based inference.  
-- Implemented pose classification models for tennis actions such as serve, forehand, and backhand.  
-- Engineered **court homography mapping** for accurate real-world coordinate projection.
+### 🎾 Tennis Match Analysis using AI
+End-to-end AI system for analyzing tennis matches — including **ball trajectory prediction**, **pose estimation**, and **bounce detection** using YOLO, TrackNet, and homography-based tracking.
 
----
+### ✋ Gesture-Based Control Interface
+Interactive system using **OpenCV + MediaPipe** for gesture recognition to control UI elements with natural hand movements.
 
-### 💼 **Payroll Service Management System**
-A production-grade **Django REST backend** for enterprise payroll and HR automation.  
-- Designed modular API endpoints with secure access layers and audit-ready logging.  
-- Implemented Celery-based asynchronous task handling for bulk payroll computations.  
-- Optimized database structure and query performance for scalability and reliability.
+### 🧩 Pose Classification with KNN
+Lightweight **KNN-based model** for recognizing tennis shot types from human pose data — serves as a plug-in for real-time match analytics.
 
 ---
 
-## 🎓 Certifications
-
-- [Meta Backend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/O5B8I7A6PRZY) – Coursera, Aug 2025  
-- [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/certificate/UC-63d12f8a-2f84-4e7d-9b6a-04f25191fc0e/) – Udemy, May 2025  
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EXTTCNXPGS8D) – Coursera, Oct 2024  
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7GYYFT92429P) – Coursera, Aug 2023  
+## 🛠️ Tech Snapshot
+**Languages:** Python, SQL  
+**Frameworks:** PyTorch, TensorFlow, Django REST  
+**Tools:** OpenCV, MediaPipe, YOLO, Pandas, NumPy  
 
 ---
 
-## 🔬 Current Focus
-
-- Building **multi-model AI pipelines** with interpretable control flow  
-- Designing **agentic orchestration frameworks** for autonomous systems  
-- Advancing **dataset reproducibility** and experiment traceability  
-- Researching **scalable backend architectures** for AI-driven automation  
+## 📈 Current Focus
+Exploring advanced **vision-language models (VLMs)** and **AI-powered system design** for real-time video analytics.
 
 ---
 
-## 🎧 Beyond Engineering
-
-Outside of development, I explore dataset curation, system design literature, and music-assisted deep work to refine focus and creativity.
-
----
-
-💡 _Engineering intelligence means building automation that remains **transparent, modular, and reproducible**._  
-**Explore my repositories to see these principles in action.**
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com) • [GitHub](https://github.com) • [Portfolio](https://your-portfolio-link.com)
