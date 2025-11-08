@@ -1,42 +1,50 @@
 # 👋 Hi, I'm Sasank Nukala
 
-🎓 **B.Tech in Computer Science (AI Minor)** — Lovely Professional University  
-💡 Passionate about building intelligent systems for real-world applications in **Computer Vision**, **AI Model Deployment**, and **Backend Engineering**.
+A methodical, autonomy-driven builder passionate about modular AI pipelines, reproducible workflows, and explicit control in system design. I specialize in backend engineering, computer vision, and agent-based automation — always avoiding hidden magic and favoring transparent, CLI-friendly solutions.
 
 ---
 
-## 🧠 Focus Areas
-- Applied **AI for Sports Analytics** (Tennis Match Analysis, Ball Tracking, Pose Estimation)  
-- **Deep Learning Pipelines** for video and keypoint-based models  
-- **Backend Engineering** with scalable, production-ready APIs  
-- **Model Lifecycle Management** – from training to deployment
+## 🚀 Skills
+
+- **Backend Engineering**: Django REST Framework, modular API design, scalable endpoint architecture  
+- **Computer Vision**: OpenCV, image processing pipelines, Kalman filtering, dataset annotation  
+- **AI & Deep Learning**: Hugging Face, TensorFlow, prompt engineering, model fine-tuning  
+- **Dev Tools**: Git, CLI chaining, reproducible workflows, secure role-based access  
+- **Data Analytics**: SQL, data wrangling, visualization, structured evaluation
 
 ---
 
-## ⚙️ Tech Stack
-**Python**, **PyTorch**, **TensorFlow**, **OpenCV**, **YOLO**, **FastAPI**, **Django REST**, **Pandas**, **NumPy**, **Scikit-learn**, **SQLite / PostgreSQL**
+## 🧠 Certifications
+
+- [Meta Backend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/O5B8I7A6PRZY) – Coursera, Aug 2025  
+- [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/certificate/UC-63d12f8a-2f84-4e7d-9b6a-04f25191fc0e/) – Udemy, May 2025  
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EXTTCNXPGS8D) – Coursera, Oct 2024
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7GYYFT92429P) – Coursera, Aug 2023
+
 
 ---
 
-## 📈 Notable Projects
-- 🎾 **Tennis Match Analysis System**  
-  End-to-end AI pipeline integrating YOLO-based detection and tracking for court, players, and ball.  
-  *Includes bounce prediction and player pose recognition modules.*
 
-- 🧍‍♂️ **Player Pose Classification Model**  
-  KNN-based classifier trained on custom dataset of tennis poses — forehand, backhand, serve, and ready position.
+## 🛠️ Projects
 
-- ⚡ **AI-Driven Calculator**  
-  Handwritten digit recognition integrated with computational logic for gesture-based arithmetic.
+### 🎾 ServeSight – AI Powered Tennis Match Analysis  
+- Utilized AI to classify player poses and analyze match footage for performance insights.  
+- Built a modular OpenCV pipeline for tennis ball detection, trajectory estimation, and bounce classification with Kalman filtering.  
+- Engineered a dataset-agnostic CLI workflow with configurable parameters for reproducible, automation-free execution.
 
----
-
-## 🚀 What I'm Exploring
-- Efficient model deployment using **ONNX / TensorRT**  
-- Building lightweight **AI microservices** using **FastAPI + Celery + Redis**  
-- Researching **real-time sports analytics** through motion tracking
+### 💼 Payroll Service Management System  
+- Developed a scalable backend system to manage employee payroll, attendance, and tax computations using DRF.  
+- Implemented secure role-based access control and modular API endpoints for CRUD operations.  
+- Optimized database queries and filtering logic for efficient payroll generation across large datasets.
 
 ---
 
-> “Turning ideas into systems that think, see, and act.”
+## 🎯 Activities & Interests
 
+- 📸 Collecting and curating datasets for vision-based analysis with reproducible pipelines  
+- 🎧 Listening to music for focus and creative flow during deep work  
+- 🔍 Benchmarking open-source models and integrating Hugging Face datasets for fine-tuning
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or connect for collaboration on reproducible AI workflows and scalable backend systems.
