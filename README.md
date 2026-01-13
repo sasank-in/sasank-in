@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Sasank Nukala
+**AI Engineer | Backend Developer | Computer Vision Practitioner**
 
 A methodical, autonomy-driven builder passionate about modular AI pipelines, reproducible workflows, and explicit control in system design. I specialize in backend engineering, computer vision, and agent-based automation — always avoiding hidden magic and favoring transparent, CLI-friendly solutions.
 
 ---
 
-## 🚀 Skills
+## Technical Skills
 
 - **Backend Engineering**: Django REST Framework, modular API design, scalable endpoint architecture  
 - **Computer Vision**: OpenCV, image processing pipelines, Mediapipe, Kalman filtering, dataset annotation  
@@ -14,7 +15,7 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 
 ---
 
-## 🧠 Certifications
+## Certifications
 
 - [Meta Backend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/O5B8I7A6PRZY) – Coursera, Aug 2025   
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/EXTTCNXPGS8D) – Coursera, Oct 2024
@@ -22,25 +23,25 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 ---
 
 
-## 🛠️ Projects
+## Key Projects
 
-### 🎾 ServeSight – AI Powered Tennis Match Analysis  
+### ServeSight – AI Powered Tennis Match Analysis  
 - Utilized AI to classify player poses and analyze match footage for performance insights.  
 - Built a modular OpenCV pipeline for tennis ball detection, trajectory estimation, and bounce classification with Kalman filtering.  
 - Engineered a dataset-agnostic CLI workflow with configurable parameters for reproducible, automation-free execution.
 
-### 💼 Payroll Service Management System  
+### Payroll Service Management System  
 - Developed a scalable backend system to manage employee payroll, attendance, and tax computations using DRF.  
 - Implemented secure role-based access control and modular API endpoints for CRUD operations.  
 - Optimized database queries and filtering logic for efficient payroll generation across large datasets.
 
 ---
 
-## 🎯 Activities & Interests
+## Activities &  Areas of Interests
 
-- 📸 Collecting and curating datasets for vision-based analysis with reproducible pipelines  
-- 🎧 Listening to music for focus and creative flow during deep work  
-- 🔍 Benchmarking open-source models and integrating Hugging Face datasets for fine-tuning
+- Collecting and curating datasets for vision-based analysis with reproducible pipelines  
+- Benchmarking open-source models and integrating Hugging Face datasets for fine-tuning
+- ML pipeline automation and retraining systems  
 
 ---
 
