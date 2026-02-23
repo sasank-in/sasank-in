@@ -9,8 +9,7 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 
 - **Backend Engineering**: Django REST Framework, modular API design, scalable endpoint architecture  
 - **Computer Vision**: OpenCV, image processing pipelines, Mediapipe, Kalman filtering, dataset annotation  
-- **AI & Deep Learning**: Hugging Face, TensorFlow, prompt engineering, model fine-tuning  
-- **Dev Tools**: Git, RoboFlow, PostMan, secure role-based access  
+- **AI & Deep Learning**: Hugging Face, TensorFlow, prompt engineering, model fine-tuning
 - **Data Analytics**: SQL, data wrangling, visualization, structured evaluation
 
 ---
