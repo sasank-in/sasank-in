@@ -21,7 +21,6 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 
 ---
 
-
 ## Key Projects
 
 ### ServeSight – AI Powered Tennis Match Analysis  
@@ -39,8 +38,7 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 ## Activities &  Areas of Interests
 
 - Collecting and curating datasets for vision-based analysis with reproducible pipelines  
-- Benchmarking open-source models and integrating Hugging Face datasets for fine-tuning
-- ML pipeline automation and retraining systems  
+- Benchmarking open-source models, ML pipeline automation, and retraining systems 
 
 ---
 
