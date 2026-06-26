@@ -7,7 +7,6 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 
 [<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="Java" align="center" src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />](https://www.java.com/)
-[<img alt="C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />](https://isocpp.org/)
 [<img alt="SQL" align="center" src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
 [<img alt="PyTorch" align="center" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />](https://pytorch.org/)
 [<img alt="Scikit Learn" align="center" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />](https://scikit-learn.org/)
