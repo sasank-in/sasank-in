@@ -20,8 +20,6 @@ A methodical, autonomy-driven builder passionate about modular AI pipelines, rep
 [<img alt="Django REST Framework" align="center" src="https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />](https://www.django-rest-framework.org/)
 [<img alt="Spring Boot" align="center" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />](https://spring.io/projects/spring-boot)
 [<img alt="Spring Cloud" align="center" src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />](https://spring.io/projects/spring-cloud)
-[<img alt="PostgreSQL" align="center" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
-[<img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 [<img alt="ChromaDB" align="center" src="https://img.shields.io/badge/-ChromaDB-7B3FE4?style=flat&logo=databricks&logoColor=white" />](https://www.trychroma.com/)
 [<img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />](https://www.docker.com/)
 [<img alt="Git" align="center" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />](https://git-scm.com/)
